@@ -16,17 +16,17 @@ const Contact = () => {
     {
       icon: <FaMapSigns className="text-4xl" />,
       title: "Address",
-      desription: `pune Maharashtra `,
+      desription: `Ukraine`,
     },
     {
       icon: <BsFillTelephoneFill className="text-4xl" />,
       title: "Contact Number",
-      desription: `+ 91 8767820250`,
+      desription: `+ 380 950781190`,
     },
     {
       icon: <FaPaperPlane className="text-4xl" />,
       title: "Email Address",
-      desription: `shindepratik3095gmail.com`,
+      desription: `pavelgusulak@gmail.com`,
     },
     
   ];
@@ -165,7 +165,7 @@ const Contact = () => {
           <div className="relative aspect-w-16 h-[50vw] lg:h-full aspect-h-9">
             <iframe
               className="absolute inset-0 w-full h-full"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d121059.03447396975!2d73.86296739999999!3d18.52461645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf2e67461101%3A0x828d43bf9d9ee343!2sPune%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1723571155386!5m2!1sen!2sin"  
+              src="https://www.google.com/maps/search/Rue+Ukraine,+Montreal,+QC/@45.5696622,-73.6227545,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D"
               allowFullScreen
               loading="lazy"
             ></iframe>
